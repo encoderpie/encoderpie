@@ -1,14 +1,29 @@
 <div align="center">
-  <h2>👋 Hi, I’m Kadir</h2>
-  
-  [My Portfolio](https://encoderpie.github.io/)
+<h1 align="center">Hi 👋, I'm Kadir</h1>
+<h4 align="center">I am a student who is constantly trying to improve himself. </h4>
+</div>
+
+<div align="center">
   
   [![Discord Presence](https://lanyard.cnrad.dev/api/583353336519065601)](https://discord.com/users/583353336519065601)
   
-  
-  <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=encoderpie&show_icons=true&theme=midnight-purple" width="%100" height="150px" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=encoderpie&show_icons=true&layout=compact&theme=dark" />
-    
 </div>
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+    <h2 align="center"> 📊 Github stats </h2>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/encoderpie/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=encoderpie&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="encoderpie Top Langs" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/encoderpie/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=encoderpie&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=encoderpie&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+  </div>    
+</details>
