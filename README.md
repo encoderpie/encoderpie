@@ -25,5 +25,6 @@
           </a>
        </p>
      <br>
-  </div>    
+  </div> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=encoderpie.encoderpie" />
 </details>
