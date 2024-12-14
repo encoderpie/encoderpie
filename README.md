@@ -3,12 +3,6 @@
 <h4 align="center">I am a student who is constantly trying to improve himself. </h4>
 </div>
 
-<div align="center">
-  
-  [![Discord Presence](https://lanyard.cnrad.dev/api/583353336519065601)](https://discord.com/users/583353336519065601)
-  
-</div>
-
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
