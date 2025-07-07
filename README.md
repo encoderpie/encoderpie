@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Kadir</h1>
-<h4 align="center">Senior Full Stack Developer with DevOps Experience</h4>
+<h4 align="center">Full Stack Developer with DevOps Experience</h4>
 </div>
 
 <details> 
