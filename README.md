@@ -1,10 +1,9 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Kadir</h1>
-<h4 align="center">Full Stack Developer</h4>
+<h4 align="center">dev</h4>
 </div>
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>GitHub Profile Stats</summary>
   <div>
         <p align="center">
           <a href="https://github.com/encoderpie/">
